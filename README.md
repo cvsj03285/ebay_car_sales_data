@@ -1,4 +1,4 @@
-# ebay_car_sales_data
+# Guided Projects - ebay_car_sales_data
 The dataset was originally scraped and uploaded to Kaggle. We've made a few modifications from the original dataset that was uploaded to Kaggle:
 
 We sampled 50,000 data points from the full dataset, to ensure your code runs quickly in our hosted environment
